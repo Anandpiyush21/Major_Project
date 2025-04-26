@@ -1,0 +1,20 @@
+File: label_jan\2020-01-11.csv
+Number of clusters: 16
+
+Cluster distribution:
+Cluster 0: 2438 nodes
+Cluster 1: 2 nodes
+Cluster 2: 9 nodes
+Cluster 3: 3 nodes
+Cluster 4: 2 nodes
+Cluster 5: 26 nodes
+Cluster 6: 2 nodes
+Cluster 7: 3 nodes
+Cluster 8: 2 nodes
+Cluster 9: 2 nodes
+Cluster 10: 2 nodes
+Cluster 11: 2 nodes
+Cluster 12: 2 nodes
+Cluster 13: 2 nodes
+Cluster 14: 27 nodes
+Cluster 15: 8 nodes
